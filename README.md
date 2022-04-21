@@ -30,6 +30,8 @@ Automate  Detection of Different Emotions from Textual Comments And Feedback.
 <b>Removing stop words:</b> Different stop words are removed from the tokenized list so that the words which belongs to a particular emotion remain only.<br>
 <b>Keyword Spotting:</b> After the cleansing of data algorithm searches the keyword of textual comments which matches with the emotion list.<br>
 
-<b>Outcome:</b> One can find the occurrence of different emotions in textual comments or feedbacks and easily figure out which is the dominant emotion in the textual comment.<br>
+<b>Outcome:</b> One can find the occurrence of different emotions in textual comments or feedbacks and easily figure out which is the dominant emotion in the textual comment.<br>![Screenshot (39)](https://user-images.githubusercontent.com/56269029/164392310-8f02f9bc-adf2-4ce2-a974-1b23dd599b2f.png)
+<br>
+
 <b>Quickstart:</b><br>
 <b>•</b>The application can be run by simply executing main.py
