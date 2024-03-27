@@ -116,7 +116,6 @@
  'disjointed': 'derailed',
  'dismal': 'sad',
  'dismayed': 'fearful',
- 'disoriented': 'derailed',
  'disparaged': 'cheated',
  'displeased': 'sad',
  'disrespected': 'belittled',
