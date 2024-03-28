@@ -29,13 +29,13 @@ Automate  Detection of Different Emotions from Textual Comments And Feedback.
 <b>Tokenization:</b> Different textual comments are broken into tokens.it is a convenient approach for the detection of emotions.<br><br>
 <b>Removing stop words:</b> Different stop words are removed from the tokenized list so that the words that belong to a particular emotion remain only.<br><br>
 <b>Keyword Spotting:</b> After the cleansing of data algorithm searches the keyword of textual comments that match the emotion list.<br><br>
-<b>Methodology</b><br>
-<b>•</b>
-<b>•</b>
-<b>•</b>
-<b>•</b>
-<b>•</b>
-
+<b>Methodology</b><br><br>
+<b>Step 1: Choose comments or feedback.</b><br>
+<b>Step 2:Cleansing of comments or feedback.</b><br>
+<b>Step 3:Collect different types of emotions from the English dictionary.</b><br>
+<b>Step 4:Search the keywords of emotion from the comment or feedback and match from the dictionary emotions.</b><br>
+<b>Step 5: Count the appearance of each emotion in the textual comments.</b><br>
+<b>Step 6:Pass key and value to make the graph using matplotlib.</b><br><br>
 
 <b>Outcome:</b> One can find the occurrence of different emotions in textual comments or feedback and easily figure out which is the dominant emotion in the textual comment.<br>
 ![graph](https://github.com/AntimaDwivedi/Internship/assets/56269029/0f9be7a5-b6d7-4440-977d-89fc9f9176a1)
