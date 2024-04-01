@@ -1,5 +1,5 @@
 # Internship
-Automate  Detection of Different Emotions from Textual Comments And Feedback.
+**Automate  Detection of Different Emotions from Textual Comments And Feedback.**
 <table style="width:150%">
   <tr>
     <td><b>Internship Project Title</b></td>
@@ -28,7 +28,7 @@ Automate  Detection of Different Emotions from Textual Comments And Feedback.
 <b>•</b>Keyword Spotting<br><br>
 <b>Tokenization:</b> Different textual comments are broken into tokens.it is a convenient approach for the detection of emotions.<br><br>
 <b>Removing stop words:</b> Different stop words are removed from the tokenized list so that the words that belong to a particular emotion remain only.<br><br>
-<b>Keyword Spotting:</b> After the cleansing of data algorithm searches the keyword of textual comments that match the emotion list.<br><br>
+<b>Keyword Spotting:</b> After the cleansing of data, the algorithm searches the keyword of textual comments that match the emotion list.<br><br>
 <b>Methodology</b><br><br>
 <b>Step 1: Choose comments or feedback.</b><br>
 <b>Step 2:Cleansing of comments or feedback.</b><br>
